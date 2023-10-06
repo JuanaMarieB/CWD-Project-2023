@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/cwd_main.html"
+status = 200
